@@ -1,4 +1,4 @@
-# NETFLIX MOVIE RECOMMENDATION SYSTEM
+# Netflix Movie Recommendation System
 
 ## Problem Statement:
 
